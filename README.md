@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/https://www.instagram.com/webalchemy.in/" target="_blank">
+  <a href="https://www.instagram.com/webalchemy.in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=AE67FA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/channels/kunal0979" target="_blank">
